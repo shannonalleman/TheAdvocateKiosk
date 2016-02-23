@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Kiosk",
-  "short_name": "Kiosk",
+  "name": "The Advocate Kiosk",
+  "short_name": "The Advocate Kiosk",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.3",
   "minimum_chrome_version": "38",
 
   "icons": {
